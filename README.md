@@ -33,10 +33,3 @@ From here, I set up a Notebook by clicking 'new' Python 3(ipykernel) and named t
 
 
 Using the ``git add .``, ``git commit -m" "`` and ``git push`` commands in Cmder, I have pushed up my updated work to GitHub as frequently as possible.
-
-
-
-
-# References
-
-All references used for this notebook are cited in the Notebook. 
